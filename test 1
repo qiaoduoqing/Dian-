@@ -1,0 +1,24 @@
+#include <bits/stdc++.h>
+using namespace std;
+int main()
+{
+    cout << "请输入：";
+    string s;
+    while(cin >> s)
+    {
+        if(s =="Dian")
+        {
+            cout << "2002" << endl;
+        }
+        else if(s == "Quit")
+        {
+            return 0;
+        }
+        else
+        {
+            cout << "Error" << endl;
+        }
+        cout << "请输入：";
+    }
+    return 0;
+}
