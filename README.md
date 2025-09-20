@@ -1,4 +1,4 @@
-1.参加Dian的秋招的文件在master的分支下面\n
+1.参加Dian的秋招的文件在master的分支下面
 2.Level 0 的 test2 的输入文件需要文件名是Plain Text(格式是.txt)
 3.Level 1 的 程序多开 的 数据存储是通过data.txt实现的
 4.Level 2 的 部分功能格式说明：
